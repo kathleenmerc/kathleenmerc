@@ -45,16 +45,6 @@
 
 ###
 
-<h3 align="left"><b>GitHub stats</b></h3>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kathleenmerc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=kathleenmerc&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-
-###
-
 
 <!--
 ### Hi there 👋
